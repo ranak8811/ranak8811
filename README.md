@@ -1,10 +1,6 @@
 ### Hi there 👋
 # I am @ranak8811  -> Anwar
 
-**ranak8811/ranak8811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 👀 I’m interested in ... AI, Machine Learning, Blockchain, Web-designing, App-Development...
 - 🌱 I’m currently learning ... Python, C, C++, Java, HTML, CSS, JavaScript, Solidity...
