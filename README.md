@@ -18,7 +18,7 @@ Skills: C / C++ / PYTHON / Tailwind CSS / REACT / JS / HTML / CSS / Node JS / Ex
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranak8811](https://github.com/ranak8811)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Firebase, Node JS, Express JS, Mongodb
+- 💬 Ask me about **HTML5, CSS3, JS, Firebase, Node JS, Express JS, Mongodb**
 
 - 📫 How to reach me **ranakrphone@gmail.com**
 
