@@ -1,3 +1,5 @@
+![I am Anwar Hossain](https://i.ibb.co.com/tPzVVBN/github.gif)
+
 <h1 align="center">Hi 👋, I'm MD. ANWAR HOSSAIN</h1>
 <h3 align="center">Speed Learner | Frontend Developer | CSE Student</h3>
 <h4 align="center">Currently studying at Brac University (4th year)</h4>
