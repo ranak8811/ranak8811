@@ -62,7 +62,7 @@ Skills: C / C++ / PYTHON / Tailwind CSS / REACT / JS / HTML / CSS / Node JS / Ex
 
 <p align="center">
   <a href="https://github.com/ranak8811">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranak8811&theme=radical" alt="Anwar's GitHub Contribution"/>
+    <img src="https://raw.githubusercontent.com/ranak8811/ranak8811/output/snake.svg" alt="Snake animation" />
   </a>
 </p>
 
