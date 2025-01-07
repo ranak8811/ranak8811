@@ -22,7 +22,6 @@ Skills: C / C++ / PYTHON / Tailwind CSS / REACT / JS / HTML / CSS / Node JS / Ex
 
 - 📫 How to reach me **ranakrphone@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
 <p align="center">
 <a href="https://www.facebook.com/ranaf8811" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=118497&format=png" alt="ranaf8811" height="30" width="40" /></a>
