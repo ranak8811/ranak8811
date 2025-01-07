@@ -47,7 +47,7 @@ Skills: C / C++ / PYTHON / Tailwind CSS / REACT / JS / HTML / CSS / Node JS / Ex
 ## Best Repo -
 
 [![EduVerse](https://eduverse-ph-a-11.web.app/)](https://github.com/ranak8811/PH_B-10_A-11-EduVerse-Client)
-[![100+ C Problems](https://movie-portal-b3ddf.web.app/)](https://github.com/ranak8811/PH-Movie-Paradise-Client--B-10_A-10)
+[![Movie Paradise](https://movie-portal-b3ddf.web.app/)](https://github.com/ranak8811/PH-Movie-Paradise-Client--B-10_A-10)
 
 
 <p align="left">
