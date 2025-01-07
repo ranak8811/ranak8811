@@ -55,18 +55,7 @@ Skills: C / C++ / PYTHON / Tailwind CSS / REACT / JS / HTML / CSS / Node JS / Ex
 </p>
 
 <br/>
-<hr/>
-<br/>
 
-## Github Stats -
-
-<p align="center">
-  <a href="https://github.com/ranak8811">
-    <img src="https://raw.githubusercontent.com/ranak8811/ranak8811/output/snake.svg" alt="Snake animation" />
-  </a>
-</p>
-
-<br/>
 
 ## Connect with me
 
