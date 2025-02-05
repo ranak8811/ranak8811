@@ -58,7 +58,7 @@ I am a final-year Computer Science student at BRAC University, passionate about 
 ## 🌟 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ranak8811&theme=redical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranak8811&theme=redical" alt="Contribution Graph" />
 </p>
 
 ---
