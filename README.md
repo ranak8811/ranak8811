@@ -74,7 +74,7 @@ I am a final-year Computer Science student at BRAC University, passionate about 
 ## 🏗 Featured Projects
 
 
-- **[BrainShare](https://brainshare-a-12.web.app/):** An online platform (Forum) where people can hold conversations in the form of posted messages).  
+- **[BrainShare](https://brainshare-a-12.web.app/):** An online platform (Forum) where people can hold conversations in the form of posted messages.  
   [Client Repo](https://github.com/ranak8811/BrainShare-Client)
 
 - **[EduVerse](https://eduverse-ph-a-11.web.app/):** An online education platform.  
