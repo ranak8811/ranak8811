@@ -1,4 +1,4 @@
-![I am Anwar Hossain](https://i.ibb.co.com/WNBwHnWg/Linked-In-Banner.png)
+![I am Anwar Hossain](https://i.ibb.co.com/wNscWHTM/Github-Banner.png)
 
 <h1 align="center">Hi 👋, I'm MD. ANWAR HOSSAIN</h1>
 <h3 align="center">Full Stack Developer (MERN) | AI Enthusiast | NLP</h3>
