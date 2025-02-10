@@ -1,7 +1,7 @@
 ![I am Anwar Hossain](https://i.ibb.co.com/WNBwHnWg/Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm MD. ANWAR HOSSAIN</h1>
-<h3 align="center">Frontend Developer | AI Enthusiast | Speed Learner</h3>
+<h3 align="center">Full Stack Developer (MERN) | AI Enthusiast | NLP</h3>
 <h4 align="center">Final Year CSE Student at BRAC University</h4>
 
 <p align="center">
