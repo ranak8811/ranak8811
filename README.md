@@ -53,6 +53,12 @@ I am a final-year Computer Science student at BRAC University, passionate about 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranak8811&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ranak8811&theme=radical" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 ## 🌟 Contribution Graph
