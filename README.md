@@ -49,7 +49,7 @@ I am a final-year Computer Science student at BRAC University, passionate about 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranak8811&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ranak8811&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=ranak8811&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranak8811&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
