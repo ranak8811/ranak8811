@@ -97,7 +97,7 @@ I am a final-year Computer Science student at BRAC University, passionate about 
 ## 📫 How to Reach Me
 
 - **Email**: [ranakrphone@gmail.com](mailto:ranakrphone@gmail.com)
-- **WhatsApp**: [+8801789133715](https://wa.me/8801789133715)
+- **WhatsApp**: [WhatsApp Link](https://wa.me/8801789133715)
 - **Facebook**: [ranaf8811](https://www.facebook.com/ranaf8811)
 - **LinkedIn**: [ranak8811](https://www.linkedin.com/in/ranak8811)
 - **Twitter**: [@ranak8811](https://x.com/ranak8811)
