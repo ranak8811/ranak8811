@@ -1,7 +1,7 @@
 ![I am Anwar Hossain](https://i.ibb.co.com/wNscWHTM/Github-Banner.png)
 
 <h1 align="center">Hi 👋, I'm MD. ANWAR HOSSAIN</h1>
-<h3 align="center">Full Stack Developer (MERN) | AI Enthusiast | NLP</h3>
+<h3 align="center">Frontend Developer | Junior Full Stack developer (MERN) | Data Science Learner | Specializing in AI/ML | Passionate About Impactful AI Solutions</h3>
 <h4 align="center">Final Year CSE Student at BRAC University</h4>
 
 <p align="center">
@@ -33,8 +33,11 @@ I am a final-year Computer Science student at BRAC University, passionate about 
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -89,7 +92,7 @@ I am a final-year Computer Science student at BRAC University, passionate about 
 
 - Web Development (React, Next.js, Tailwind CSS)
 - Backend Development (Node.js, Express.js, MongoDB)
-- AI, Machine Learning, and NLP
+- AI, Machine Learning, Data Science and NLP
 - Firebase Authentication and Deployment
 
 ---
