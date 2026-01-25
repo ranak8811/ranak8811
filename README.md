@@ -76,6 +76,8 @@ I am a final-year Computer Science student at BRAC University, passionate about 
 
 ## 🏗 Featured Projects
 
+- **[Pro Fast Delivery System](https://movie-portal-b3ddf.web.app/):** A modern, full-stack web application for parcel delivery management, offering distinct dashboards for users, riders, and administrators.  
+  [Client Repo](https://github.com/ranak8811/Pro-Fast-Delivery-System-Client.git)
 
 - **[BrainShare](https://brainshare-a-12.web.app/):** An online platform (Forum) where people can hold conversations in the form of posted messages.  
   [Client Repo](https://github.com/ranak8811/BrainShare-Client)
@@ -83,8 +85,6 @@ I am a final-year Computer Science student at BRAC University, passionate about 
 - **[EduVerse](https://eduverse-ph-a-11.web.app/):** An online education platform.  
   [Client Repo](https://github.com/ranak8811/PH_B-10_A-11-EduVerse-Client)
   
-- **[Movie Paradise](https://movie-portal-b3ddf.web.app/):** A movie portal project.  
-  [Client Repo](https://github.com/ranak8811/PH-Movie-Paradise-Client--B-10_A-10)
 
 ---
 
