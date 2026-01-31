@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year Computer Science student at BRAC University, passionate about **Web Development, Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)**. I love exploring new technologies and solving real-world problems through code. My goal is to build scalable and efficient applications that create a positive impact.
+I am a graduated Computer Science student at BRAC University, passionate about **Web Development, Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)**. I love exploring new technologies and solving real-world problems through code. My goal is to build scalable and efficient applications that create a positive impact.
 
 ---
 
