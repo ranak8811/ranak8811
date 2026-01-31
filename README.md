@@ -79,11 +79,11 @@ I am a graduated Computer Science student at BRAC University, passionate about *
 - **[Pro Fast Delivery System](https://zap-shift-abec3.web.app/):** A modern, full-stack web application for parcel delivery management, offering distinct dashboards for users, riders, and administrators.  
   [Client Repo](https://github.com/ranak8811/Pro-Fast-Delivery-System-Client.git)
 
-- **[BrainShare](https://brainshare-a-12.web.app/):** An online platform (Forum) where people can hold conversations in the form of posted messages.  
-  [Client Repo](https://github.com/ranak8811/BrainShare-Client)
+- **[Car Doctor Next JS](https://nextjs-car-doctor-six.vercel.app/):** Car Doctor is a full-stack car repair and maintenance service management application built with Next.js.
+  [Client Repo](https://github.com/ranak8811/Car-Doctor-Next-Js.git)
 
-- **[EduVerse](https://eduverse-ph-a-11.web.app/):** An online education platform.  
-  [Client Repo](https://github.com/ranak8811/PH_B-10_A-11-EduVerse-Client)
+- **[US Visa Status Prediction](https://huggingface.co/spaces/ranak8811/US-Visa-Status-Prediction-App):** This project aims to predict whether a US visa application will be Certified or Denied based on various details about the applicant and the employer.
+  [Client Repo](https://github.com/ranak8811/US-Visa-Prediction-ML-Gradio-App.git)
   
 
 ---
@@ -99,7 +99,7 @@ I am a graduated Computer Science student at BRAC University, passionate about *
 
 ## 📫 How to Reach Me
 
-- **Email**: [ranakrphone@gmail.com](mailto:ranakrphone@gmail.com)
+- **Email**: [anwar.hossain.rana8811@gmail.com](mailto:anwar.hossain.rana8811@gmail.com)
 - **WhatsApp**: [WhatsApp Link](https://wa.me/8801789133715)
 - **Facebook**: [ranaf8811](https://www.facebook.com/ranaf8811)
 - **LinkedIn**: [ranak8811](https://www.linkedin.com/in/ranak8811)
