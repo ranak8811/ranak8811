@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MD. ANWAR HOSSAIN</h1>
 <h3 align="center">Frontend Developer | Junior Full Stack developer (MERN) | Data Science Learner | Specializing in AI/ML | Passionate About Impactful AI Solutions</h3>
-<h4 align="center">Final Year CSE Student at BRAC University</h4>
+<h4 align="center">Graduated CSE Student from BRAC University</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranak8811&color=red" alt="Profile views" />
